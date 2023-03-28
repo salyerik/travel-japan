@@ -15,4 +15,4 @@
 ### Mobile Optimization
 <img src="img/page-speed.jpg" alt="img" style="height: 400px;">
 
-[link]: https://steterik.github.io/travel-japan/
+[link]: https://steterik.github.io/travelJapan/
